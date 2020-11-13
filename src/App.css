@@ -1,0 +1,29 @@
+html,
+body {
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.BoardRow {
+  display: flex;
+  flex-direction: row;
+}
+
+.ButtonsRow {
+  display: flex;
+  flex-direction: row;
+}
+
+.Board {
+  position: relative;
+  display: inline-block;
+}
+
+.boardButtons {
+  display: inline-block;
+  position: absolute;
+  left: 0.5rem;
+  top: 0.5rem;
+}
