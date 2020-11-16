@@ -4,12 +4,12 @@
 
 ### functions
 
-新增 todos
-刪除 todos
-篩選 todos
+新增 todos  
+刪除 todos  
+篩選 todos  
 標示已完成、未完成
 
 ### install
 
-`npm create-react-app app-name`
+`npm create-react-app app-name`  
 下載 src 資料夾裡的檔案並取代原本的資料夾。
